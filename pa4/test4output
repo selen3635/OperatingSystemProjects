@@ -1,0 +1,19 @@
+T2: 0 cubed = 0
+T1: 0 squared = 0
+T0: square = 0, cube = 0
+T0: square = 0, cube = 0
+T2: 1 cubed = 1
+T1: 1 squared = 1
+T0: square = 1, cube = 1
+T0: square = 1, cube = 1
+T2: 2 cubed = 8
+T1: 2 squared = 4
+T0: square = 4, cube = 8
+YieldThread: Thread 0 does not exist
+T1: 3 squared = 9
+T2: 3 cubed = 27
+YieldThread: Thread 0 does not exist
+T1: 4 squared = 16
+YieldThread: Thread 0 does not exist
+T2: 4 cubed = 64
+YieldThread: Thread 1 does not exist

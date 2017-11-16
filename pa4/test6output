@@ -1,0 +1,41 @@
+T3: 0 cubed = 0
+T2: 0 squared = 0
+T1: 0 + 0 = 0
+**Thread 0 resumed by thread 1
+T0: square = 0, cube = 0
+**Thread 3 resumed by thread 0
+T3: 1 cubed = 1
+**Thread 2 resumed by thread 3
+T2: 1 squared = 1
+**Thread 1 resumed by thread 2
+T1: 1 + 1 = 2
+**Thread 0 resumed by thread 1
+T0: square = 1, cube = 1
+**Thread 3 resumed by thread 0
+T3: 2 cubed = 8
+**Thread 2 resumed by thread 3
+T2: 2 squared = 4
+**Thread 1 resumed by thread 2
+T1: 4 + 8 = 12
+**Thread 0 resumed by thread 1
+T0: square = 4, cube = 8
+**Thread 3 resumed by thread 0
+T3: 3 cubed = 27
+**Thread 2 resumed by thread 3
+T2: 3 squared = 9
+**Thread 1 resumed by thread 2
+T1: 9 + 27 = 36
+**Thread 0 resumed by thread 1
+T0: square = 9, cube = 27
+**Thread 3 resumed by thread 0
+T3: 4 cubed = 64
+**Thread 2 resumed by thread 3
+T2: 4 squared = 16
+**Thread 1 resumed by thread 2
+T1: 16 + 64 = 80
+**Thread 0 resumed by thread 1
+T0: square = 16, cube = 64
+**Thread 3 resumed by thread 0
+**Thread 2 resumed by thread 3
+**Thread 1 resumed by thread 2
+
